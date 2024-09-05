@@ -13,7 +13,7 @@ import threading
 import re
 import sys
 
-session_id = "abc123"
+session_id = "rando34"
 
 llm = ChatOllama(temperature=0.7, model="llama3", base_url="http://localhost:11434")
 
