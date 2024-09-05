@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+pyaudio
+py3-tts
+speech_recognition
+python-dotenv
